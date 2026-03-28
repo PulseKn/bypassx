@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+httpx[http2]
+slowapi
+beautifulsoup4
+lxml
